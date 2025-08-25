@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glow_lichen"
+    }
+  },
+  "result": {
+    "id": "super_glow_lichen:glow_lichen_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "item.super_glow_lichen.glow_lichen_helmet": "发光地衣头盔",
+  "item.super_glow_lichen.glow_lichen_chestplate": "发光地衣胸甲",
+  "item.super_glow_lichen.glow_lichen_leggings": "发光地衣护腿",
+  "item.super_glow_lichen.glow_lichen_boots": "发光地衣靴子",
+  "item_group.super_glow_lichen.super_glow_lichen": "超级发光地衣",
+  "item.super_glow_lichen.glow_lichen_boots.description_0": "潜行放置火把",
+  "item.super_glow_lichen.on_off": "左键开/关该功能",
+  "item.super_glow_lichen.function": "功能：",
+  "item.super_glow_lichen.on": "开启",
+  "item.super_glow_lichen.off": "关闭",
+  "item.super_glow_lichen.glow_lichen_pickaxe": "发光地衣镐",
+  "item.super_glow_lichen.on_off2": "右键开/关该功能",
+  "item.super_glow_lichen.glow_lichen_pickaxe.description_0": "自带精准采集"
+}

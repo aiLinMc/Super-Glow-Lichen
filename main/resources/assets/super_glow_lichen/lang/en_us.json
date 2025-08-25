@@ -1,0 +1,15 @@
+{
+  "item.super_glow_lichen.glow_lichen_helmet": "Glow Lichen Helmet",
+  "item.super_glow_lichen.glow_lichen_chestplate": "Glow Lichen Chestplate",
+  "item.super_glow_lichen.glow_lichen_leggings": "Glow Lichen Leggings",
+  "item.super_glow_lichen.glow_lichen_boots": "Glow Lichen Boots",
+  "item_group.super_glow_lichen.super_glow_lichen": "Super Glow Lichen",
+  "item.super_glow_lichen.glow_lichen_boots.description_0": "Sneak to automatically place Torch",
+  "item.super_glow_lichen.on_off1": "Left click to turn on/off this function",
+  "item.super_glow_lichen.function": "Function: ",
+  "item.super_glow_lichen.on": "On",
+  "item.super_glow_lichen.off": "Off",
+  "item.super_glow_lichen.glow_lichen_pickaxe": "Glow Lichen Pickaxe",
+  "item.super_glow_lichen.on_off2": "Right click to turn on/off this function",
+  "item.super_glow_lichen.glow_lichen_pickaxe.description_0": "Comes with Silk Touch"
+}

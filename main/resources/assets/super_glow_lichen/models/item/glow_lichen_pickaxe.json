@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "super_glow_lichen:item/glow_lichen_pickaxe"
+  }
+}

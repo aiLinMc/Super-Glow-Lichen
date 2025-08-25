@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "super_glow_lichen:glow_lichen_boots",
+    "super_glow_lichen:glow_lichen_helmet",
+    "super_glow_lichen:glow_lichen_chestplate",
+    "super_glow_lichen:glow_lichen_leggings"
+  ]
+}
