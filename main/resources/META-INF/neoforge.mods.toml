@@ -4,7 +4,7 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="super_glow_lichen"
-version="2025.8.25"
+version="0.1.1"
 displayName="SuperGlowLichen"
 displayURL="My homepage: https://space.bilibili.com/3493284076849745"
 logoFile="logo.png"
